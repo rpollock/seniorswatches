@@ -1,6 +1,8 @@
 # seniorswatches
 wordpress theme/website
 
-First Pollock LTD Customer
-Word Press Online Store
+First Pollock LTD Customer <br>
+
+Word Press Online Store <br>
+
 Import XML file into WordPress Tools
